@@ -1,4 +1,4 @@
-# Intro to Python I hi
+# Intro to Python I
 
 It's time to learn a new language! Python!
 
